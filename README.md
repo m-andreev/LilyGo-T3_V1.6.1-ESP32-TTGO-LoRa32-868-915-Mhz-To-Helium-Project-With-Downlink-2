@@ -1,3 +1,5 @@
+Sending back uplink packet on specific downlink packet.
+
 This repository contains LMIC-node, an example LoRaWAN application for a node for The Things Network.  
 Get your node quickly up and running with LMIC-node.
 
